@@ -1,0 +1,16 @@
+{
+    "name": "daniellucia/dl_float_button_whatsapp",
+    "description": "Plugin to add a floating WhatsApp button on your website.",
+    "autoload": {
+        "psr-4": {
+            "DanielLucia\\FloatButtonWhatsapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Lúcia",
+            "email": "daniellucia84@gmail.com"
+        }
+    ],
+    "require": {}
+}

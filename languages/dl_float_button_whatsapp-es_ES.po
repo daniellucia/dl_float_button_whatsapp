@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Float Button WhatsApp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-21 10:40+0000\n"
+"PO-Revision-Date: 2024-12-21 10:43+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: dl_float_button_whatsapp"
+
+#: src/Classes/Plugin.php:53
+msgid "Button WhatsApp"
+msgstr "Botón WhatsApp"
+
+#: src/Classes/Plugin.php:74
+msgid "Button WhatsApp Settings"
+msgstr "Configuración botón WhatsApp"
+
+#. Author of the plugin
+msgid "Daniel Lucia"
+msgstr "Daniel Lucia"
+
+#: src/Classes/Plugin.php:94
+msgid "Default text:"
+msgstr "Texto por defecto:"
+
+#: src/Classes/Plugin.php:89
+msgid "Enter the phone number to use in the WhatsApp link."
+msgstr ""
+"Introduzca el número de teléfono que desea utilizar en el enlace de WhatsApp."
+
+#: src/Classes/Plugin.php:98
+msgid "Enter the text to display with the WhatsApp link."
+msgstr "Introduzca el texto que se mostrará con el enlace de WhatsApp."
+
+#. Name of the plugin
+msgid "Float Button WhatsApp"
+msgstr "Botón de WhatsApp flotante"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.daniellucia.es"
+msgstr "https://www.daniellucia.es"
+
+#: src/Classes/Plugin.php:85
+msgid "Phone number:"
+msgstr "Número de teléfono:"
+
+#. Description of the plugin
+msgid "Plugin to add a floating WhatsApp button on your website."
+msgstr "Plugin para añadir un botón flotante de WhatsApp en su sitio web."
+
+#: src/Classes/Plugin.php:102
+msgid "Save Settings"
+msgstr "Guardar configuración"
